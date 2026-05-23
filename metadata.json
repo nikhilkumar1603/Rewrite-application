@@ -1,0 +1,6 @@
+{
+  "name": "Sentence Rewriter & Grammar Checker",
+  "description": "An academic and professional sentence rewriter featuring an integrated grammar checker and style feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
